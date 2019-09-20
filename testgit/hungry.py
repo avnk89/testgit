@@ -6,4 +6,6 @@ if hungry=="yes":
 else:
     print("do your homework")
     print("play cricket")
+    print("play kabbadi")
+    print("play football")
 
