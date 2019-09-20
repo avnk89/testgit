@@ -8,4 +8,5 @@ else:
     print("play cricket")
     print("play kabbadi")
     print("play football")
+    print("play guitar")
 
