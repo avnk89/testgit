@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-print("I'm hungry")
-print("iam not")
-print("play cricket")
-=======
 hungry=input("are you hungry?")
 if hungry=="yes":
     print("eat samosa")
@@ -15,4 +10,3 @@ else:
     print("play football")
     print("play guitar")
 
->>>>>>> 4a67f9c8e698eece746e095e8f10a6c494495cb5
